@@ -1,0 +1,9 @@
+{
+   "include": ["tests", "dl_hf_model"],
+  "venvPath": ".venv",
+  "reportTypeshedErrors": false,
+  "reportMissingImports": true,
+  "reportMissingTypeStubs": false,
+  "pythonVersion": "3.8",
+  "ignore": []
+}
