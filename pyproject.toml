@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "dl-hf-model"
-version = "0.1.0-alpha.0"
+version = "0.1.0a1"
 description = "Download and cache a hf model for a given url, save to models dir"
 authors = ["ffreemt"]
 license = "MIT"
