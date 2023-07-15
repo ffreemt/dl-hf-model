@@ -1,7 +1,6 @@
 """Test dl_hf_model."""
 # pylint: disable=broad-except
-from dl_hf_model import __version__
-from dl_hf_model import dl_hf_model
+from dl_hf_model import __version__, dl_hf_model
 
 
 def test_version():
